@@ -18,7 +18,7 @@ import com.application.boot.common.utils.StringUtils;
 /**
  * 登录验证
  * 
- * @author admin
+ * @author 孤狼
  */
 @Controller
 public class SysLoginController extends BaseController

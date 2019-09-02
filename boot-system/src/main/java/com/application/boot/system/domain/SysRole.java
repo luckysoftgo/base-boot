@@ -11,7 +11,7 @@ import javax.validation.constraints.*;
 /**
  * 角色表 sys_role
  * 
- * @author admin
+ * @author 孤狼
  */
 public class SysRole extends BaseEntity
 {

@@ -7,7 +7,7 @@ import java.net.UnknownHostException;
 /**
  * 获取IP方法
  * 
- * @author admin
+ * @author 孤狼
  */
 public class IpUtils
 {

@@ -9,7 +9,7 @@ import com.application.boot.common.core.controller.BaseController;
 /**
  * druid 监控
  * 
- * @author admin
+ * @author 孤狼
  */
 @Controller
 @RequestMapping("/monitor/data")

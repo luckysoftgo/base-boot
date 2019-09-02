@@ -31,7 +31,7 @@ import java.util.Map;
 /**
  * 代码生成 操作处理
  * 
- * @author admin
+ * @author 孤狼
  */
 @Controller
 @RequestMapping("/tool/gen")

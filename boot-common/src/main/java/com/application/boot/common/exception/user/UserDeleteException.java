@@ -3,7 +3,7 @@ package com.application.boot.common.exception.user;
 /**
  * 用户账号已被删除
  * 
- * @author admin
+ * @author 孤狼
  */
 public class UserDeleteException extends UserException
 {

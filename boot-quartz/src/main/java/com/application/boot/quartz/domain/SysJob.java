@@ -16,7 +16,7 @@ import java.util.Date;
 /**
  * 定时任务调度表 sys_job
  * 
- * @author admin
+ * @author 孤狼
  */
 public class SysJob extends BaseEntity implements Serializable
 {

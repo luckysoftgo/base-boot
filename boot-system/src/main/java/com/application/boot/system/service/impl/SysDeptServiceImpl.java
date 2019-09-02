@@ -19,7 +19,7 @@ import java.util.List;
 /**
  * 部门管理 服务实现
  * 
- * @author admin
+ * @author 孤狼
  */
 @Service
 public class SysDeptServiceImpl implements ISysDeptService

@@ -12,7 +12,7 @@ import java.net.URLEncoder;
 /**
  * 文件处理工具类
  * 
- * @author admin
+ * @author 孤狼
  */
 public class FileUtils
 {

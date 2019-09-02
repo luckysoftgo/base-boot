@@ -15,7 +15,7 @@ import com.application.boot.system.service.ISysMenuService;
 /**
  * 首页 业务处理
  * 
- * @author admin
+ * @author 孤狼
  */
 @Controller
 public class SysIndexController extends BaseController

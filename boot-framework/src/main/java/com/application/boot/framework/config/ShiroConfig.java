@@ -39,7 +39,7 @@ import java.util.Map;
 /**
  * 权限配置加载
  * 
- * @author admin
+ * @author 孤狼
  */
 @Configuration
 public class ShiroConfig

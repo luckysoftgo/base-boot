@@ -5,7 +5,7 @@ import com.application.boot.common.utils.StringUtils;
 /**
  * 分页数据
  * 
- * @author admin
+ * @author 孤狼
  */
 public class PageDomain
 {

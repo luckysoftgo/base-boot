@@ -15,7 +15,7 @@ import java.util.regex.Pattern;
 /**
  * 通用消息对象，基于Map实现的可嵌套数据结构。 支持JSON数据结构。
  * 
- * @author admin
+ * @author 孤狼
  */
 public class JSONObject extends LinkedHashMap<String, Object>
 {

@@ -3,7 +3,7 @@ package com.application.boot.common.exception.user;
 /**
  * 用户错误最大次数异常类
  * 
- * @author admin
+ * @author 孤狼
  */
 public class UserPasswordRetryLimitExceedException extends UserException
 {

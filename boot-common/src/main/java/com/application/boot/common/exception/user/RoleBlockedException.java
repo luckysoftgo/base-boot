@@ -3,7 +3,7 @@ package com.application.boot.common.exception.user;
 /**
  * 角色锁定异常类
  * 
- * @author admin
+ * @author 孤狼
  */
 public class RoleBlockedException extends UserException
 {

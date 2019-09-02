@@ -12,7 +12,7 @@ import javax.validation.constraints.*;
 /**
  * 字典数据表 sys_dict_data
  * 
- * @author admin
+ * @author 孤狼
  */
 public class SysDictData extends BaseEntity
 {

@@ -12,7 +12,7 @@ import java.util.Map;
 /**
  * 全局配置类
  * 
- * @author admin
+ * @author 孤狼
  */
 public class Global
 {

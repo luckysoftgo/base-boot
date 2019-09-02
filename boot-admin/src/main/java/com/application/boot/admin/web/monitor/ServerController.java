@@ -11,7 +11,7 @@ import com.application.boot.framework.web.domain.Server;
 /**
  * 服务器监控
  * 
- * @author admin
+ * @author 孤狼
  */
 @Controller
 @RequestMapping("/monitor/server")

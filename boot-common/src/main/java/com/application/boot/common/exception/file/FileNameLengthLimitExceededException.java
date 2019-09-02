@@ -3,7 +3,7 @@ package com.application.boot.common.exception.file;
 /**
  * 文件名称超长限制异常类
  * 
- * @author admin
+ * @author 孤狼
  */
 public class FileNameLengthLimitExceededException extends FileException
 {

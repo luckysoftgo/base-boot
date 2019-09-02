@@ -3,7 +3,7 @@ package com.application.boot.common.enums;
 /**
  * 业务操作类型
  * 
- * @author admin
+ * @author 孤狼
  */
 public enum BusinessType
 {

@@ -21,7 +21,7 @@ import com.application.boot.common.utils.StringUtils;
 /**
  * 表格相关
  * 
- * @author admin
+ * @author 孤狼
  */
 @Controller
 @RequestMapping("/demo/table")

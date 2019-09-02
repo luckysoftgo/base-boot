@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * 字典表 数据层
  * 
- * @author admin
+ * @author 孤狼
  */
 public interface SysDictDataMapper
 {

@@ -22,7 +22,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * 通用请求处理
  * 
- * @author admin
+ * @author 孤狼
  */
 @Controller
 public class CommonController

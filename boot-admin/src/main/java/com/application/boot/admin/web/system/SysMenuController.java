@@ -25,7 +25,7 @@ import com.application.boot.system.service.ISysMenuService;
 /**
  * 菜单信息
  * 
- * @author admin
+ * @author 孤狼
  */
 @Controller
 @RequestMapping("/system/menu")

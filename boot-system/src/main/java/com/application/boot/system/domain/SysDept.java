@@ -11,7 +11,7 @@ import javax.validation.constraints.Size;
 /**
  * 部门表 sys_dept
  * 
- * @author admin
+ * @author 孤狼
  */
 public class SysDept extends BaseEntity
 {

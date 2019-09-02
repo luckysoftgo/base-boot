@@ -16,7 +16,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 /**
  * Swagger2的接口配置
  * 
- * @author admin
+ * @author 孤狼
  */
 @Configuration
 @EnableSwagger2

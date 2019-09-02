@@ -24,7 +24,7 @@ import org.springframework.util.StringUtils;
 /**
  * 登录校验方法
  * 
- * @author admin
+ * @author 孤狼
  */
 @Component
 public class SysLoginService

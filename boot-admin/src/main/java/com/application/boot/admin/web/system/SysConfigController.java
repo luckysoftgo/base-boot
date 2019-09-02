@@ -25,7 +25,7 @@ import com.application.boot.system.service.ISysConfigService;
 /**
  * 参数配置 信息操作处理
  * 
- * @author admin
+ * @author 孤狼
  */
 @Controller
 @RequestMapping("/system/config")

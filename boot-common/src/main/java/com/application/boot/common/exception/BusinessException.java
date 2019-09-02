@@ -3,7 +3,7 @@ package com.application.boot.common.exception;
 /**
  * 业务异常
  * 
- * @author admin
+ * @author 孤狼
  */
 public class BusinessException extends RuntimeException
 {

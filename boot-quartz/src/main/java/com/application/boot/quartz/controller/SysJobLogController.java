@@ -23,7 +23,7 @@ import java.util.List;
 /**
  * 调度日志操作处理
  * 
- * @author admin
+ * @author 孤狼
  */
 @Controller
 @RequestMapping("/monitor/jobLog")

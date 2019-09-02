@@ -10,7 +10,7 @@ import java.util.Date;
 /**
  * 时间工具类
  * 
- * @author admin
+ * @author 孤狼
  */
 public class DateUtils extends org.apache.commons.lang3.time.DateUtils
 {

@@ -3,7 +3,7 @@ package com.application.boot.common.constant;
 /**
  * 代码生成通用常量
  * 
- * @author admin
+ * @author 孤狼
  */
 public class GenConstants
 {

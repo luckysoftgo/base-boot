@@ -12,7 +12,7 @@ import java.lang.annotation.Target;
 /**
  * 自定义多数据源切换注解
  * 
- * @author admin
+ * @author 孤狼
  */
 @Target({ ElementType.METHOD, ElementType.TYPE })
 @Retention(RetentionPolicy.RUNTIME)

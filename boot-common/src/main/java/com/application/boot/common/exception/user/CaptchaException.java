@@ -3,7 +3,7 @@ package com.application.boot.common.exception.user;
 /**
  * 验证码错误异常类
  * 
- * @author admin
+ * @author 孤狼
  */
 public class CaptchaException extends UserException
 {

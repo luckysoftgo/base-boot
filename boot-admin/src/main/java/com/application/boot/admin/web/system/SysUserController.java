@@ -30,7 +30,7 @@ import com.application.boot.system.service.ISysUserService;
 /**
  * 用户信息
  * 
- * @author admin
+ * @author 孤狼
  */
 @Controller
 @RequestMapping("/system/user")

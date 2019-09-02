@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * 服务相关配置
  * 
- * @author admin
+ * @author 孤狼
  *
  */
 @Component

@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * 调度任务信息 数据层
  * 
- * @author admin
+ * @author 孤狼
  */
 public interface SysJobMapper
 {

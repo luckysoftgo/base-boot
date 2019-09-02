@@ -11,7 +11,7 @@ import javax.validation.constraints.*;
 /**
  * 岗位表 sys_post
  * 
- * @author admin
+ * @author 孤狼
  */
 public class SysPost extends BaseEntity
 {

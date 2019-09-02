@@ -6,7 +6,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 /**
  * web容器中进行部署
  * 
- * @author admin
+ * @author 孤狼
  */
 public class BaseBootServletInitializer extends SpringBootServletInitializer
 {

@@ -3,7 +3,7 @@ package com.application.boot.common.constant;
 /**
  * 通用常量信息
  * 
- * @author admin
+ * @author 孤狼
  */
 public class Constants
 {

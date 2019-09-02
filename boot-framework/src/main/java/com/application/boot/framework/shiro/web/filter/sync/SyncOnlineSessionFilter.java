@@ -12,7 +12,7 @@ import javax.servlet.ServletResponse;
 /**
  * 同步Session数据到Db
  * 
- * @author admin
+ * @author 孤狼
  */
 public class SyncOnlineSessionFilter extends PathMatchingFilter
 {

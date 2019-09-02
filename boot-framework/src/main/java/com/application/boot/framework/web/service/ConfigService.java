@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 /**
  * Data首创 html调用 thymeleaf 实现参数管理
  * 
- * @author admin
+ * @author 孤狼
  */
 @Service("config")
 public class ConfigService

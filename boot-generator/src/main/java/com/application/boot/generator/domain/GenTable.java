@@ -11,7 +11,7 @@ import java.util.List;
 /**
  * 业务表 gen_table
  * 
- * @author admin
+ * @author 孤狼
  */
 public class GenTable extends BaseEntity
 {

@@ -5,7 +5,7 @@ import com.application.boot.common.exception.base.BaseException;
 /**
  * 文件信息异常类
  * 
- * @author admin
+ * @author 孤狼
  */
 public class FileException extends BaseException
 {

@@ -26,7 +26,7 @@ import com.application.boot.system.service.ISysUserService;
 /**
  * 个人信息 业务处理
  * 
- * @author admin
+ * @author 孤狼
  */
 @Controller
 @RequestMapping("/system/user/profile")

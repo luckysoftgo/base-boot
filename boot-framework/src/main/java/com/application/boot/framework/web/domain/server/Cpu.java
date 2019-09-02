@@ -5,7 +5,7 @@ import com.application.boot.common.utils.Arith;
 /**
  * CPU相关信息
  * 
- * @author admin
+ * @author 孤狼
  */
 public class Cpu
 {

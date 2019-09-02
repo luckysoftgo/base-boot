@@ -23,7 +23,7 @@ import io.swagger.annotations.ApiOperation;
 /**
  * swagger 用户测试方法
  * 
- * @author admin
+ * @author 孤狼
  */
 @Api("用户信息管理")
 @RestController

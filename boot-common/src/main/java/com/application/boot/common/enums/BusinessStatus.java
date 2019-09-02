@@ -3,7 +3,7 @@ package com.application.boot.common.enums;
 /**
  * 操作状态
  * 
- * @author admin
+ * @author 孤狼
  */
 public enum BusinessStatus
 {

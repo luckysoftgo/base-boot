@@ -11,7 +11,7 @@ import javax.validation.constraints.*;
 /**
  * 字典类型表 sys_dict_type
  * 
- * @author admin
+ * @author 孤狼
  */
 public class SysDictType extends BaseEntity
 {

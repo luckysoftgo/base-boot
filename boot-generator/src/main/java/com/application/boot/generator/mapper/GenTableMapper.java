@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * 业务 数据层
  * 
- * @author admin
+ * @author 孤狼
  */
 public interface GenTableMapper
 {

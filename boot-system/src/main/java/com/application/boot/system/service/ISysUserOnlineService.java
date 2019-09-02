@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * 在线用户 服务层
  * 
- * @author admin
+ * @author 孤狼
  */
 public interface ISysUserOnlineService
 {

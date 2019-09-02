@@ -12,7 +12,7 @@ import java.util.List;
 /**
  * 公告 服务层实现
  * 
- * @author admin
+ * @author 孤狼
  * @date 2018-06-25
  */
 @Service

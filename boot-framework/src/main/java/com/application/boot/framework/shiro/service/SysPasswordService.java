@@ -21,7 +21,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 /**
  * 登录密码方法
  * 
- * @author admin
+ * @author 孤狼
  */
 @Component
 public class SysPasswordService

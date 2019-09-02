@@ -9,7 +9,7 @@ import java.util.Map.Entry;
 /**
  * Map通用处理方法
  * 
- * @author admin
+ * @author 孤狼
  */
 public class MapDataUtil
 {

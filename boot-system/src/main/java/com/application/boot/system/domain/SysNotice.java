@@ -9,7 +9,7 @@ import javax.validation.constraints.*;
 /**
  * 通知公告表 sys_notice
  * 
- * @author admin
+ * @author 孤狼
  */
 public class SysNotice extends BaseEntity
 {

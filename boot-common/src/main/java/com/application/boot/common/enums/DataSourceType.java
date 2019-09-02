@@ -3,7 +3,7 @@ package com.application.boot.common.enums;
 /**
  * 数据源
  * 
- * @author admin
+ * @author 孤狼
  */
 public enum DataSourceType
 {

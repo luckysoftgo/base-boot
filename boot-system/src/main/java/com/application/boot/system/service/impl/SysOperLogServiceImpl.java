@@ -12,7 +12,7 @@ import java.util.List;
 /**
  * 操作日志 服务层处理
  * 
- * @author admin
+ * @author 孤狼
  */
 @Service
 public class SysOperLogServiceImpl implements ISysOperLogService

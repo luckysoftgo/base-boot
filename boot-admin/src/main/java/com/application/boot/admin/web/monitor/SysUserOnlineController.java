@@ -24,7 +24,7 @@ import com.application.boot.system.service.ISysUserOnlineService;
 /**
  * 在线用户监控
  * 
- * @author admin
+ * @author 孤狼
  */
 @Controller
 @RequestMapping("/monitor/online")

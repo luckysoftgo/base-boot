@@ -12,7 +12,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * 线程相关工具类.
  * 
- * @author admin
+ * @author 孤狼
  */
 public class Threads
 {

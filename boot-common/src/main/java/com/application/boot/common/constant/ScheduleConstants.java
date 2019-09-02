@@ -3,7 +3,7 @@ package com.application.boot.common.constant;
 /**
  * 任务调度通用常量
  * 
- * @author admin
+ * @author 孤狼
  */
 public interface ScheduleConstants
 {

@@ -6,7 +6,7 @@ import com.application.boot.common.utils.StringUtils;
 /**
  * 字符串格式化
  * 
- * @author admin
+ * @author 孤狼
  */
 public class StrFormatter
 {

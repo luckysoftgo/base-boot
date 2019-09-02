@@ -9,7 +9,7 @@ import com.application.boot.common.core.controller.BaseController;
 /**
  * swagger 接口
  * 
- * @author admin
+ * @author 孤狼
  */
 @Controller
 @RequestMapping("/tool/swagger")

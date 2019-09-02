@@ -27,7 +27,7 @@ import java.util.Deque;
 /**
  * 登录帐号控制过滤器
  * 
- * @author admin
+ * @author 孤狼
  */
 public class KickoutSessionFilter extends AccessControlFilter
 {

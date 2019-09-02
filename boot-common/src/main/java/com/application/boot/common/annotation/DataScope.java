@@ -9,7 +9,7 @@ import java.lang.annotation.Target;
 /**
  * 数据权限过滤注解
  * 
- * @author admin
+ * @author 孤狼
  */
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)

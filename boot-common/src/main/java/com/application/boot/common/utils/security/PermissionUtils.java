@@ -16,7 +16,7 @@ import java.beans.PropertyDescriptor;
 /**
  * permission 工具类
  * 
- * @author admin
+ * @author 孤狼
  */
 public class PermissionUtils
 {

@@ -5,7 +5,7 @@ import com.application.boot.common.utils.Arith;
 /**
  * 內存相关信息
  * 
- * @author admin
+ * @author 孤狼
  */
 public class Mem
 {

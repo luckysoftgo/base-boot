@@ -20,7 +20,7 @@ import com.application.boot.system.service.ISysLogininforService;
 /**
  * 系统访问记录
  * 
- * @author admin
+ * @author 孤狼
  */
 @Controller
 @RequestMapping("/monitor/logininfor")

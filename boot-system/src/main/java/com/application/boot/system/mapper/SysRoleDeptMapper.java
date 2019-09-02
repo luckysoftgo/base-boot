@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * 角色与部门关联表 数据层
  * 
- * @author admin
+ * @author 孤狼
  */
 public interface SysRoleDeptMapper
 {

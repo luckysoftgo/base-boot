@@ -13,7 +13,7 @@ import java.util.Map;
 /**
  * 配置处理工具类
  * 
- * @author admin
+ * @author 孤狼
  */
 public class YamlUtil
 {

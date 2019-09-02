@@ -19,7 +19,7 @@ import com.application.boot.common.core.controller.BaseController;
 /**
  * 图片验证码（支持算术形式）
  * 
- * @author admin
+ * @author 孤狼
  */
 @Controller
 @RequestMapping("/captcha")

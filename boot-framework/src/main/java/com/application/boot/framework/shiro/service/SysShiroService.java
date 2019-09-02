@@ -13,7 +13,7 @@ import java.io.Serializable;
 /**
  * 会话db操作处理
  * 
- * @author admin
+ * @author 孤狼
  */
 @Component
 public class SysShiroService

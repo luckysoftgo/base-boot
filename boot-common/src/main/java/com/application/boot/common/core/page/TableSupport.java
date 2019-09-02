@@ -6,7 +6,7 @@ import com.application.boot.common.utils.ServletUtils;
 /**
  * 表格数据处理
  * 
- * @author admin
+ * @author 孤狼
  */
 public class TableSupport
 {

@@ -3,7 +3,7 @@ package com.application.boot.framework.web.domain.server;
 /**
  * 系统相关信息
  * 
- * @author admin
+ * @author 孤狼
  */
 public class Sys
 {

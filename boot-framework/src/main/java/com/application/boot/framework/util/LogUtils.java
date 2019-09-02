@@ -14,7 +14,7 @@ import java.util.Map;
 /**
  * 处理并记录日志文件
  * 
- * @author admin
+ * @author 孤狼
  */
 public class LogUtils
 {

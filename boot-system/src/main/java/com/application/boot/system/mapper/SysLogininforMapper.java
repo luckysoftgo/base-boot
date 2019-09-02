@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * 系统访问日志情况信息 数据层
  * 
- * @author admin
+ * @author 孤狼
  */
 public interface SysLogininforMapper
 {

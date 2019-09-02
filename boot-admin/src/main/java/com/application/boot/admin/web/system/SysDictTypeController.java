@@ -26,7 +26,7 @@ import com.application.boot.system.service.ISysDictTypeService;
 /**
  * 数据字典信息
  * 
- * @author admin
+ * @author 孤狼
  */
 @Controller
 @RequestMapping("/system/dict")

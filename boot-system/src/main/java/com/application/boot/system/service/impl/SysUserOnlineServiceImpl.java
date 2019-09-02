@@ -14,7 +14,7 @@ import java.util.List;
 /**
  * 在线用户 服务层处理
  * 
- * @author admin
+ * @author 孤狼
  */
 @Service
 public class SysUserOnlineServiceImpl implements ISysUserOnlineService

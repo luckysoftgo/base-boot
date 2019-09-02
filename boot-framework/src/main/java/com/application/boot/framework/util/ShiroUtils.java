@@ -15,7 +15,7 @@ import org.apache.shiro.subject.Subject;
 /**
  * shiro 工具类
  * 
- * @author admin
+ * @author 孤狼
  */
 public class ShiroUtils
 {

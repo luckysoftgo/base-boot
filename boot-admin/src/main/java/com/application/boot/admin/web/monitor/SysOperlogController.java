@@ -22,7 +22,7 @@ import com.application.boot.system.service.ISysOperLogService;
 /**
  * 操作日志记录
  * 
- * @author admin
+ * @author 孤狼
  */
 @Controller
 @RequestMapping("/monitor/operlog")

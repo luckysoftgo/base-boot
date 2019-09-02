@@ -26,7 +26,7 @@ import com.application.boot.system.service.ISysDeptService;
 /**
  * 部门信息
  * 
- * @author admin
+ * @author 孤狼
  */
 @Controller
 @RequestMapping("/system/dept")

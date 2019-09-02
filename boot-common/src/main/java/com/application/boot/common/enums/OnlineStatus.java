@@ -3,7 +3,7 @@ package com.application.boot.common.enums;
 /**
  * 用户会话
  * 
- * @author admin
+ * @author 孤狼
  */
 public enum OnlineStatus
 {

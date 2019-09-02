@@ -10,7 +10,7 @@ import java.util.Date;
 /**
  * 定时任务调度日志表 sys_job_log
  * 
- * @author admin
+ * @author 孤狼
  */
 public class SysJobLog extends BaseEntity
 {

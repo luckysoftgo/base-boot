@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 /**
  * 报表
  * 
- * @author admin
+ * @author 孤狼
  */
 @Controller
 @RequestMapping("/demo/report")

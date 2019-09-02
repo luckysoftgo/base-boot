@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * Data首创 html调用 thymeleaf 实现字典读取
  * 
- * @author admin
+ * @author 孤狼
  */
 @Service("dict")
 public class DictService
