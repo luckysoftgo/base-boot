@@ -82,6 +82,28 @@ PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
          </trim>
     </insert>
 
+	<insert id="insert${ClassName}s" parameterType="java.util.ArrayList" flushCache="true" >
+		insert into ${tableName}
+		<trim prefix="(" suffix=")" suffixOverrides=",">
+#foreach($column in $columns)
+#if($column.columnName != $pkColumn.columnName || !$pkColumn.increment)
+			$column.columnName,
+#end
+#end
+		</trim>
+        values
+        <foreach collection="list" item="item" index="index" separator=",">
+			<trim prefix="(" suffix=")" suffixOverrides=",">
+#foreach($column in $columns)
+#if($column.columnName != $pkColumn.columnName || !$pkColumn.increment)
+			#{item.$column.javaField},
+#end
+#end
+			</trim>
+		</foreach>
+	</insert>
+
+
     <update id="update${ClassName}" parameterType="${ClassName}">
         update ${tableName}
         <trim prefix="SET" suffixOverrides=",">

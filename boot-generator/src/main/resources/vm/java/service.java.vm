@@ -38,6 +38,14 @@ public interface I${ClassName}Service
      */
     public int insert${ClassName}(${ClassName} ${className});
 
+	/**
+	 * 批量新增${functionName}
+	 *
+	 * @param ${className} ${functionName}
+	 * @return 结果
+	 */
+	public boolean insert${ClassName}s(List<${ClassName}> ${className}s);
+
     /**
      * 修改${functionName}
      * 

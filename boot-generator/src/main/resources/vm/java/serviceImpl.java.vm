@@ -71,6 +71,18 @@ public class ${ClassName}ServiceImpl implements I${ClassName}Service
         return ${className}Mapper.insert${ClassName}(${className});
     }
 
+	/**
+	 * 新增${functionName}
+	 *
+	 * @param ${className} ${functionName}
+	 * @return 结果
+	 */
+	@Override
+	public boolean insert${ClassName}s(List<${ClassName}> ${className}s)
+	{
+		return ${className}Mapper.insert${ClassName}s(${className}s);
+	}
+
     /**
      * 修改${functionName}
      * 
