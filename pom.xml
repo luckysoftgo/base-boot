@@ -44,6 +44,7 @@
 	<!-- 依赖声明 -->
 	<dependencyManagement>
 		<dependencies>
+			
 			<!-- SpringBoot的依赖配置-->
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
@@ -55,47 +56,37 @@
 			
 			<!-- 定时任务-->
 			<dependency>
-				<groupId>com.application.boot.boot</groupId>
+				<groupId>com.application.boot</groupId>
 				<artifactId>boot-quartz</artifactId>
 				<version>${base-boot.version}</version>
 			</dependency>
 			
 			<!-- 代码生成-->
 			<dependency>
-				<groupId>com.application.boot.boot</groupId>
+				<groupId>com.application.boot</groupId>
 				<artifactId>boot-generator</artifactId>
 				<version>${base-boot.version}</version>
 			</dependency>
 			
 			<!-- 核心模块-->
 			<dependency>
-				<groupId>com.application.boot.boot</groupId>
+				<groupId>com.application.boot</groupId>
 				<artifactId>boot-framework</artifactId>
 				<version>${base-boot.version}</version>
 			</dependency>
 			
 			<!-- 系统模块-->
 			<dependency>
-				<groupId>com.application.boot.boot</groupId>
+				<groupId>com.application.boot</groupId>
 				<artifactId>boot-system</artifactId>
 				<version>${base-boot.version}</version>
 			</dependency>
 			
 			<!-- 通用工具-->
 			<dependency>
-				<groupId>com.application.boot.boot</groupId>
+				<groupId>com.application.boot</groupId>
 				<artifactId>boot-common</artifactId>
 				<version>${base-boot.version}</version>
-			</dependency>
-			
-			
-			<!-- SpringBoot的依赖配置-->
-			<dependency>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-dependencies</artifactId>
-				<version>2.1.1.RELEASE</version>
-				<type>pom</type>
-				<scope>import</scope>
 			</dependency>
 			
 			<!--阿里数据库连接池 -->
