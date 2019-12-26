@@ -4,7 +4,7 @@
 		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	
-	<groupId>com.application.boot.boot</groupId>
+	<groupId>com.application.boot</groupId>
 	<artifactId>base-boot</artifactId>
 	<packaging>pom</packaging>
 	<version>1.0.0-RELEASE</version>
@@ -44,6 +44,14 @@
 	<!-- 依赖声明 -->
 	<dependencyManagement>
 		<dependencies>
+			<!-- SpringBoot的依赖配置-->
+			<dependency>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-dependencies</artifactId>
+				<version>2.1.6.RELEASE</version>
+				<type>pom</type>
+				<scope>import</scope>
+			</dependency>
 			
 			<!-- 定时任务-->
 			<dependency>

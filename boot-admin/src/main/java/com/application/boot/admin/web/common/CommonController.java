@@ -14,7 +14,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.multipart.MultipartFile;
 
@@ -120,28 +119,6 @@ public class CommonController
                 "attachment;fileName=" + FileUtils.setFileDownloadHeader(request, downloadName));
         FileUtils.writeBytes(downloadPath, response.getOutputStream());
     }
-	
-	/**
-	 * @Description: 批量请求接口
-	 */
-	@RequestMapping("/common/data")
-	public @ResponseBody String data(String param) {
-		
-		return "{\"error_code\":0,\"reason\":\"ok\",\"result\":{\"items\":[{\"regStatus\":\"存续\"," +
-				"\"estiblishTime\":1495555200000,\"regCapital\":\"\",\"pencertileScore\":4902,\"type\":1," +
-				"\"legalPersonName\":\"温旭颖\",\"toco\":2,\"legalPersonId\":2051255554,\"name\":\"陕西西部资信股份有限公司海南分公司\"," +
-				"\"logo\":\"https://img5.tianyancha.com/logo/lll/f4155abb4babbc1985049529e103779a.png@!f_200x200\"," +
-				"\"alias\":\"西部资信\",\"id\":3053414776,\"category\":\"723\",\"personType\":1,\"base\":\"han\"}]," +
-				"\"total\":18}}";
-		
-		/*
-		String url="http://open.api.tianyancha.com/services/";
-		if (org.apache.commons.lang3.StringUtils.isNotBlank(param)){
-			return getInfoByTianYanCha(url,param,"陕西西部资信股份有限公司","2311497658");
-		}
-		return getInfoByTianYanCha(url,"branch","陕西西部资信股份有限公司","2311497658");
-	    */
-	}
 	
 	/**
 	 * 获取天眼查的信息.
