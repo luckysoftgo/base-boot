@@ -71,7 +71,7 @@
 		
 		<!-- 系统模块-->
 		<dependency>
-			<groupId>com.application.boot.boot</groupId>
+			<groupId>com.application.boot</groupId>
 			<artifactId>boot-system</artifactId>
 			<version>${base-boot.version}</version>
 		</dependency>

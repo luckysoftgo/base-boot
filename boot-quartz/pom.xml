@@ -27,7 +27,7 @@
 		
 		<!-- 通用工具-->
 		<dependency>
-			<groupId>com.application.boot.boot</groupId>
+			<groupId>com.application.boot</groupId>
 			<artifactId>boot-common</artifactId>
 			<version>${base-boot.version}</version>
 		</dependency>

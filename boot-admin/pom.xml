@@ -17,26 +17,26 @@
 		
 		<!-- 核心模块-->
 		<dependency>
-			<groupId>com.application.boot.boot</groupId>
+			<groupId>com.application.boot</groupId>
 			<artifactId>boot-framework</artifactId>
 			<version>${base-boot.version}</version>
 		</dependency>
 		
 		<!-- 定时任务-->
 		<dependency>
-			<groupId>com.application.boot.boot</groupId>
+			<groupId>com.application.boot</groupId>
 			<artifactId>boot-quartz</artifactId>
 			<version>${base-boot.version}</version>
 		</dependency>
 		
 		<!-- 代码生成-->
 		<dependency>
-			<groupId>com.application.boot.boot</groupId>
+			<groupId>com.application.boot</groupId>
 			<artifactId>boot-generator</artifactId>
 			<version>${base-boot.version}</version>
 		</dependency>
 		<dependency>
-			<groupId>com.application.boot.boot</groupId>
+			<groupId>com.application.boot</groupId>
 			<artifactId>boot-common</artifactId>
 			<version>${base-boot.version}</version>
 		</dependency>
